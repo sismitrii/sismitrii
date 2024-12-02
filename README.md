@@ -1,11 +1,11 @@
-## Hello World ! I'm Florian Guerin a french Front-end Developer Junior 👋
+## Hello World ! I'm Florian Guerin a french Developer 👋
 
 
 🌱I'm a Self-Learner ! There is no better place to learn new things than the World Wide Web !
 
 <br />
 
-- 👨‍💻 I'm currently working on a personal restaurant website !
+- 👨‍💻 I'm currently working on a baby bet website !
 - 🛠 I use daily :
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML-grey?style=plastic&logo=HTML5)
